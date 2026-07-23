@@ -12,3 +12,4 @@ I build production-grade systems across machine learning, reinforcement learning
 - **[ESL Sentence Completion](https://github.com/rishi186/Sentence-Completion-Questions-via-Pre-trained-Neural-Language-Models)** — Solves fill-in-the-blank questions using BART, BERT, RoBERTa, and GPT-2
 
 📫 Reach me at reddyrishi186@gmail.com
+💼 Currently open to SWE / ML engineering roles — feel free to reach out.
